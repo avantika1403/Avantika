@@ -1,0 +1,124 @@
+PROJECT OVERVIEW
+
+The “SCRUM MASTER SYSTEM” is real time software that brings greater organization and effectiveness to the full range of HumanResource functions and responsibilities.This software automates the task management inside the organization, there by saving thevaluable time and efforts of employees.
+ 
+This software provides for easy, accurate and timelyretrieval of Employee and activity-oriented information through menu driven, user-friendlyoperations.
+ --------------------------------------------------------------------------------
+OBJECTIVE
+
+The Objective Of Our Project Is To:
+1.This software would completely automate the HR management.
+2.Would save precious time and effort of officials.
+3.Minimize the possibility of human error.
+4.All the records related to different employees of the department would be saved for thefuture reference.
+5.Generation of computerized reports by just using the few clicks of a mouse.
+  -----------------------------------------------------------------------------------
+
+PROBLEM DEFINITION AND SPECIFICATION
+
+Our Problem Is to Design an Effective and Easy-To-Use “SCRUM MASTER” Software that meet theinformation need of all levels of Management and facilitates Decision Support, Planning,Monitoring, Control of Daily Activities.
+
+    -----------------------------------------------------------------------------     
+SPECIFICATION
+1.It Provides Easy And Efficient Interface To Interact With.
+2.Would save precious time and effort of officials.
+3.Minimize the possibility of human error.
+4.All the records related to different employees of the department would be saved for thefuture reference.
+5.Generation of computerized reports by just using the few clicks of a mouse.
+6.It Manages Ur Data Or Account Details With Proper Care.
+7.Its powerful record keeping, monitoring and reporting capabilities will save you time,while reducing your exposure to employment related lawsuits by ensuring you have proper documentation. 
+ -------------------------------------------------------------------------------------------
+What is the problem?
+The problem is to convert a manual system into an automated one.
+---
+Why is it important to solve the problem?
+This is done to save the time and help the users to keep a record for themselves toavoid any sort of confusion and conflicts.
+---
+What are the possible solutions to the problem?
+This problem can be easily solved on any of the following programming language
+VB
+---
+What exactly are the data input to the system and what exactly are the data outputrequired of the system?Data input to the system may be:
+•Id of administrator or user 
+•Password of administrator 
+•USER_ID that is unique.
+•USER passwordData output to the system may be:
+•Admin page
+•User Main Page
+•Employee details
+ ----------------------------------------------------------------------------------------------------
+EXISTING SYSTEM
+The HR Administration falls short of controlling the employee’s activities in analyzing his/her strengths and weakness. The decision for appraisal of assigning next project to the employee or to show him/her the deadline of project – where lies with proper projection. He is not providedwith the detailed project information done or to be assigned based on Application / Verticals.
+1.DRAWBACKS IN EXISTING SYSTEM:
+Need of extra manual effort.
+It used to take much time to find any employee
+Not very much accurate.
+Does not provide any information about client.
+Deadline of project not shown to employees.
+Danger of losing the files in some cases.
+ -------------------------- -------------------------------------------
+BENEFITS OF THE PROPOSED SYSTEM
+The new system will not only increase the efficiency of the system but also Provide user friendlyinterface. The user will have easy access of the various forms. This will not only increase theclarity in the working style of the System but also reduces the valuable resources.
+ --------------------------------------------------------------------------
+ADVANTAGES OF PROPOSED SYSTEM:
+Very fast and accurate.
+No need of any extra manual effort.
+No fever of data loss.
+Just need a little knowledge to operate the system.
+Doesn’t require any extra hardware device.
+Employees on their main form get the message of project deadline coming.
+Provide information about clients.
+At last very easy to find the employees.
+  -------------------------------------------------------------------------
+END USERS TO THE SYSTEM
+The system is permitted to allow two types of users:
+1.ADMIN LEVEL USER:
+The user at the admin level also acts as the administrator of the system and can excise fullcontrol to the system resources.The admin level user is entitled to perform the following tasks.
+•Perform transaction level data entry based as per the system requirements.
+•View the project details issued to each employee.
+•Authorized each employee to use the system by providing user id and password.
+View the details of each employee their employee id, departments, salary information, project details etc.
+•Create new client and project in the database.
+•Performing miscellaneous operations like editing, deleting any employee records, projectdetails, salary details etc.
+    ------------------------------------------------------------------------
+2.AUTHORIZED LEVEL USER:
+The user at this level is allowed to perform the following tasks on the system:
+•Perform transaction level data entry as per the system requirements.
+•View his/her profile.
+•View the project details assigned to his/her.
+•Performing miscellaneous operations like changing his login password for proper security measures
+  ------------------------------------------------------------------------------------
+TECHNICAL ENVIRONMENT FOR THE PROPOSED SYSTEM
+Following will be the minimum requirement of hardware to run the software, which will bedeveloped. Different specification for server and client is given below.
+HARDWARE:
+Pentium Processor :2.1 GHz and above
+512 MB or higher RAM
+3x72 GB or Higher SCSI Hard disk 
+CD-ROM Drive
+104 Keyboards
+PS/2 Mouse8
+    -------------------------------------------------------------------------------------
+SOFTWARE
+Front-end--Project will be developed using html,css,javascript.
+Back-end: -- php, mysqli
+Technology - Ajax
+ --------------------------------------------------------------------------------
+MODULE
+Add Task 
+View task
+Admin Assing task
+Report
+Employee
+New user
+ -------------------------------------------------------------------------------------
+Keywords used in systemdocumentation
+Generic Technology keywords:Databases, Network and middleware, Programming
+Specific Technology keywords:MS-SQL server, MS-Access
+Project type keywords:Analysis, Design, Implementation, Testing, User Interface
+ ----------------------------------------------------------------------------------
+
+
+
+
+
+            
